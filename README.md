@@ -9,13 +9,13 @@
 <br><div>
   
  ## Connect with me
-<a href="www.linkedin.com/in/leonardo-anders-23706920a">
+<a href="https://www.linkedin.com/in/leonardo-anders-23706920a">
   <img align="center" src="https://img.shields.io/badge/-Leonardo%20Anders-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/leonardoh_Anders">
  <img align="center" src="https://img.shields.io/badge/-leonardoanders-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href=" ">
+<a href="mailto:leonardoanders15@gmail.com">
  <img align="center" src="https://img.shields.io/badge/-leonardoanders15@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
 </div>
