@@ -15,7 +15,7 @@
 <a href="https://www.instagram.com/leonardoh_Anders">
  <img align="center" src="https://img.shields.io/badge/-leonardoanders-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="mailto:leonardoanders15@gmail.com">
+<a href="mailto::leonardoanders15@gmail.com">
  <img align="center" src="https://img.shields.io/badge/-leonardoanders15@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
 </div>
