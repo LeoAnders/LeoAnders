@@ -1,11 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CD7C24&width=437&lines=Hallo,+nice+to+see+you+here!)](https://git.io/typing-svg)
 
-<div align="right">
-
-<a align="right" href="https://github.com/LeoAnders/LeoAnders/blob/main/README.pt-br.md">🔁 Change to Portuguese Version</a> <img height="14em" src="https://github.com/hampusborgos/country-flags/blob/main/png100px/br.png"></a>
-
-</div>
-
 <h3>Hallo, World 👋</h3>
 
 <h4> My name is Leonardo Anders </h4>
