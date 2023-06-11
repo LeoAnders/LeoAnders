@@ -14,9 +14,6 @@
 <a href="https://www.linkedin.com/in/leonardo-anders-23706920a">
   <img align="center" src="https://img.shields.io/badge/-Leonardo%20Anders-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/leonardoh_Anders">
- <img align="center" src="https://img.shields.io/badge/-leonardoanders-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
 </div>
 
 ## Tools
