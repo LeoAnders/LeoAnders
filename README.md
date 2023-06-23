@@ -2,12 +2,9 @@
 
 <h3>Hello, World 👋</h3>
 
-<h4> My name is Leonardo Anders </h4>
-
-- 🔭 *I'm a beginner in the world of programming*
-- 🌱 *I’m currently learning JavaScript*
-- 🎓 *I am currently studying Systems Analysis and Development*
-- 🌎 *I am committed to learning this universe with empathy and curiosity.*
+- 🔭 *My development focus is the front-end*
+- 🌱 *Currently learning mongoDB and Nodejs*
+- 🎓 *I'm studying Systems Analysis and Development*
 <br><div>
   
  ## Connect with me
