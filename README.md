@@ -2,7 +2,7 @@
 
 <h3>Hello, World 👋</h3>
 
-- 🔭 My development focus is the front-end
+- 🔭 My development focus is the Full Stack
 - 🌱 Currently learning mongoDB and Nodejs
 - 🎓 I'm studying Systems Analysis and Development
 - ⚙️ My skills:
