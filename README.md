@@ -1,14 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CD7C24&width=437&lines=Hello,+nice+to+see+you+here!)](https://git.io/typing-svg)
 
-<h3>Hello, World 👋</h3>
+<h3>I am currently an ERP developer</h3>
 
+- 🏢 I'm currently working at **[Consistem](https://consistem.com.br/)**.
 - 🔭 My development focus is the Full Stack
-- 🌱 Currently learning mongoDB and Nodejs
+- 🌱 Currently learning `React` `PostgreSQL` `TypeScript`
 - 🎓 I'm studying Systems Analysis and Development
-- ⚙️ My skills:
-  - Web development with HTML, CSS, Bootstrap & Javascript
-  - Back-end development with MongoDB & Node.js
-  - UI design with Figma
+- 👨‍💻 Current project [biztab.com.br](https://github.com/LeoAnders/biztab.com.br)
+  
 <br><div>
   
  ## Connect with me
