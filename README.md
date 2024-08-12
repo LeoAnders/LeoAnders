@@ -5,7 +5,7 @@
 - 🏢 I'm currently working at **[Consistem](https://consistem.com.br/)**.
 - 🔭 My development focus is the Full Stack
 - 🌱 Currently learning `React` `PostgreSQL` `TypeScript`
-- 🎓 I'm studying Systems Analysis and Development
+- 🎓 I'm pursuing a Bachelor's degree in Software Engineering
 - 👨‍💻 Current project [biztab.com.br](https://github.com/LeoAnders/biztab.com.br)
   
 <br><div>
