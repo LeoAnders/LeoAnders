@@ -2,13 +2,7 @@
 
 <h3>Backend Developer</h3>
 
-- 🏢 I'm currently working at **[Consistem](https://consistem.com.br/)**.
-- 🔭 My main focus is on **mobile apps** and **backend APIs**
-- 🌱 Studying React Native to expand into mobile app development while keeping backend as my core expertise
-- 🎓 I'm pursuing a Bachelor's degree in Software Engineering
-- 👨‍💻 Current project: [biztab.com.br](https://github.com/LeoAnders/biztab.com.br)
-  
-<br><div>
+I am a backend developer, focused on REST APIs, mainly using Node.js. Currently, I concentrate my efforts on architectures for mobile applications, applying good development practices and studying React Native to expand my role in the mobile ecosystem, while keeping backend as my main technical domain. At the same time, I am pursuing a Bachelor's degree in Software Engineering, deepening my knowledge in systems engineering, design patterns, and agile methodologies.
   
  ## Connect with me
 <a href="https://www.linkedin.com/in/leonardo-anders-23706920a">
